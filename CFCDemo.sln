@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFCDemo", "CFCDemo\CFCDemo.csproj", "{99D37B8D-CA6D-4F06-87F3-85B3EB7284AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D37B8D-CA6D-4F06-87F3-85B3EB7284AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D37B8D-CA6D-4F06-87F3-85B3EB7284AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D37B8D-CA6D-4F06-87F3-85B3EB7284AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D37B8D-CA6D-4F06-87F3-85B3EB7284AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E61B722-9B62-40BE-942E-F560F97375F2}
+	EndGlobalSection
+EndGlobal
