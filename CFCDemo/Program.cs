@@ -10,6 +10,11 @@ namespace CFCDemo
     {
         static void Main(string[] args)
         {
+            AppDomain.CurrentDomain.SetData("DataDirectory", Environment.CurrentDirectory);
+            KTStoreEntities model =new KTStoreEntities();
+            int c = model.Products.Count();
+            Console.WriteLine(c);
+            Console.Read();
         }
     }
 }

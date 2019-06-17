@@ -9,7 +9,7 @@ namespace CFCDemo
 {
     public class KTStoreEntities : DbContext
     {
-        public KTStoreEntities():base("")
+        public KTStoreEntities():base("name=KTStoreModelConn")
         {
             
         }
